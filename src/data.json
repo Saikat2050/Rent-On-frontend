@@ -1,0 +1,93 @@
+[
+    {
+        "_id": 1,
+        "itemName": "sai",
+        "description": "",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 50,
+        "isDeleted": false
+    },
+    {
+        "_id": 2,
+        "itemName": "sai 2",
+        "description": "saikat santra",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 54,
+        "isDeleted": false
+    },
+    {
+        "_id": 3,
+        "itemName": "sai 3",
+        "description": "saikat abc",
+        "userId": "1",
+        "quantity": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIEq2_voA0LdSK67Bv3uK7Kf-INkKtM8Eq6n2GZj1FzdrQnuOxoyxn8w7fgW7UGLnuOk&usqp=CAU",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 50,
+        "isDeleted": false
+    },
+    {
+        "_id": 4,
+        "itemName": "sai 4",
+        "description": "saikat",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": true,
+        "rating": 50,
+        "isDeleted": false
+    },
+    {
+        "_id": 5,
+        "itemName": "sai 5",
+        "description": "I am saikat",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 50,
+        "isDeleted": false
+    },
+    {
+        "_id": 6,
+        "itemName": "sai 6",
+        "description": "",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 50,
+        "isDeleted": true
+    },
+    {
+        "_id": 7,
+        "itemName": "sai 7",
+        "description": "",
+        "userId": "1",
+        "quantity": 1,
+        "image": "",
+        "price": 100,
+        "rentFrequency": "monthly",
+        "sold": false,
+        "rating": 50,
+        "isDeleted": false
+    }
+]
